@@ -1,0 +1,13 @@
+My faivorate command line interfaces: 
+  1.curl -u "username" https://api.github.com/user/repos -d '{"name":"repo-name","private":false}'
+
+   By this command we can create GitHub reposity by terminal .
+
+  2. brew - we can install a lot of software by brew install + softwarenem 
+  That is easy way to install softwares like java,git, Jenkins....ect
+
+  3. Npm-liver server 
+   the website we are designing can be changed automatically once we install NPM package manager to our our workplace inside the our coding files. We don't have to refresh the site. It is automatically refreshed. 
+
+
+  Hudawerdi Abeydulla 7th, April 2021. Week 2
